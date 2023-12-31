@@ -1,4 +1,4 @@
-Website for Quiz on countries capital city.
+# Website for Quiz on countries capital city.
 
 <h3>Install nodemon</h3>
    <h2>npm i nodemon</h2>
